@@ -3,4 +3,4 @@ Please use this link to acess the [Dashboard](https://lookerstudio.google.com/re
 
 A fictional dashboard about the sales of a jewelry in Looker Studio 
 
-Used AI to generate data of the three databases, sales, customer, products, I also used a python code to create a more realistic rating of the sales
+Used AI to generate data of the three databases, sales, customer, products, I also used a python code to create a more realistic rating of the sales and merge all data
